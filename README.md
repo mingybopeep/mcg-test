@@ -23,3 +23,5 @@ The breakpoints used were 700 & 1000px for width.
 
 ## Other notes
 No content was provided for the 'our brands' or 'explore careers' tabs, however the site still funcitons when the user scroll is detected. I created a function to inc/decrement a state integer variable, as a turn of the scroll wheel (or a completed gesture for trackpads) results in the 'onWheel' being called multiple times, which makes the event far too sensitive. After the user has completed about '1 scroll', the 'section' changes, and the counter resets.
+
+** I am very eager to receive feedback and to learn what I can do to improve on this site. 
