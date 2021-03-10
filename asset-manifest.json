@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mcg-test/static/css/main.7be552e6.chunk.css",
+    "main.js": "/mcg-test/static/js/main.692006ec.chunk.js",
+    "main.js.map": "/mcg-test/static/js/main.692006ec.chunk.js.map",
+    "runtime-main.js": "/mcg-test/static/js/runtime-main.c2cff2db.js",
+    "runtime-main.js.map": "/mcg-test/static/js/runtime-main.c2cff2db.js.map",
+    "static/js/2.19774af1.chunk.js": "/mcg-test/static/js/2.19774af1.chunk.js",
+    "static/js/2.19774af1.chunk.js.map": "/mcg-test/static/js/2.19774af1.chunk.js.map",
+    "index.html": "/mcg-test/index.html",
+    "static/css/main.7be552e6.chunk.css.map": "/mcg-test/static/css/main.7be552e6.chunk.css.map",
+    "static/js/2.19774af1.chunk.js.LICENSE.txt": "/mcg-test/static/js/2.19774af1.chunk.js.LICENSE.txt",
+    "static/media/style.module.scss": "/mcg-test/static/media/mcg-landing.91197215.png",
+    "static/media/MCG_Logo.8b6d3302.svg": "/mcg-test/static/media/MCG_Logo.8b6d3302.svg",
+    "static/media/arrowIcon.d9e81eb7.svg": "/mcg-test/static/media/arrowIcon.d9e81eb7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2cff2db.js",
+    "static/js/2.19774af1.chunk.js",
+    "static/css/main.7be552e6.chunk.css",
+    "static/js/main.692006ec.chunk.js"
+  ]
+}
